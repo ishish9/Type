@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7df403cc8e4edb043ad8ac805b6a9edb, type: 3}
+  m_Name: Trophies
+  m_EditorClassIdentifier: 
+  trohpie0: {fileID: 846664569535210418, guid: af953098c27edc04cb06335bfac12e27, type: 3}
+  trohpie1: {fileID: 429066908003966723, guid: f489e11f45690004aa5aa5b750097964, type: 3}
+  trohpie2: {fileID: 492461756813438327, guid: 26898bd992b1723489a2281dcb3600df, type: 3}
+  trohpie3: {fileID: 5083857671819005764, guid: 997724be441964946a632deb1e47509a, type: 3}
+  trohpie4: {fileID: 4315525653531918775, guid: aea95fe55fca0c34c8318329d46ea809, type: 3}
+  trohpie5: {fileID: 8181656694665452417, guid: 1dcc62a62b7cfb94094e0ff5037cfedd, type: 3}
+  trohpie6: {fileID: 6688378215273902145, guid: 95a50b7ffe8b9374aad264e397277cf9, type: 3}
+  trohpie7: {fileID: 7492118487595612055, guid: e237ae7347208d740874df5b65648be6, type: 3}
+  trohpie8: {fileID: 3332087085564765535, guid: ccf6b82967cd30b4987ab4e044c19cd1, type: 3}
+  trohpie9: {fileID: 0}
+  trohpie10: {fileID: 0}

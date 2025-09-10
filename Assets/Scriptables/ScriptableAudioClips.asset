@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afb7e935e99c6bb4ba6dae35200ddb1a, type: 3}
+  m_Name: ScriptableAudioClips
+  m_EditorClassIdentifier: 
+  LetterCorrect: {fileID: 8300000, guid: a96b53952087c7244b5b677dbbfb3971, type: 3}
+  LetterWrong: {fileID: 8300000, guid: 24176fb323e125d49b5cb034a3587787, type: 3}
+  WordComplete: {fileID: 8300000, guid: 84833ec947ec74d4493855dc5f818d22, type: 3}
+  WordSpawn: {fileID: 8300000, guid: 12281a83389b5c644bd43f27778531f0, type: 3}
+  WordExpired: {fileID: 8300000, guid: 170f40dbad500c448903450049f9bb17, type: 3}
+  LevelUp: {fileID: 8300000, guid: 4153189bf5837674083bfe360174636f, type: 3}
+  Defeat: {fileID: 8300000, guid: e9e0950cdd073c84bbd667cf3c2d0381, type: 3}
+  Trophy: {fileID: 0}
+  WordShoot: {fileID: 8300000, guid: 1939f9f9857c41c4b8984c0889445464, type: 3}
+  WordBreak: {fileID: 0}
+  ShotgunShoot: {fileID: 8300000, guid: 5a6bcf3f8fb62bd4d951238a650f0209, type: 3}
+  ShotgunReload: {fileID: 8300000, guid: 35ff2cf2d87d20b43b55c34c98130df3, type: 3}
+  BulletMiss: {fileID: 8300000, guid: f384d39c72c756d46b4e2fca13b56433, type: 3}
+  MenuOpen: {fileID: 0}
+  MenuClose: {fileID: 0}
+  SpawnFountain: {fileID: 8300000, guid: b2db5bc57aab901459ed6be17db9a537, type: 3}
+  FireProjectile: {fileID: 8300000, guid: e93f4066abf828f41be612854208d674, type: 3}
+  ProjectileImpact: {fileID: 8300000, guid: 6e2264d14b5748e44ad1fca201da4196, type: 3}
+  AsteroidExplode: {fileID: 8300000, guid: cc1e2af77ec0f034baa0ab146cd03560, type: 3}
+  MultiAdd: {fileID: 8300000, guid: 106f6a898c4086a4f8ba0a847411cc6e, type: 3}
+  MultiSubtract: {fileID: 0}
+  MultiLevelUp: {fileID: 8300000, guid: 5625f125ecc94fe4caae08e2b443cb9b, type: 3}
+  MultiLevelDown: {fileID: 0}

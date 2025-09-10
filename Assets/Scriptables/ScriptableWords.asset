@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f88aebcc7da7a3341a27481d26a65043, type: 3}
+  m_Name: ScriptableWords
+  m_EditorClassIdentifier: 
+  word0: game
+  word1: power
+  word2: cool
+  word3: no
+  word4: why
+  word5: go
+  word6: 
+  word7: 
+  word8: 
+  word9: 
+  word10: 
+  wordM0: 
+  wordM1: 
+  wordM2: 
+  wordM3: 
+  wordM4: 
+  wordM5: 
+  wordM6: 
+  wordM7: 
+  wordM8: 
+  wordM9: 
+  wordM10: 
+  wordH0: 
+  wordH1: 
+  wordH2: 
+  wordH3: 
+  wordH4: 
+  wordH5: 
+  wordH6: 
+  wordH7: 
+  wordH8: 
+  wordH9: 
+  wordH10: 
