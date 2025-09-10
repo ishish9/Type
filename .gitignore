@@ -3,6 +3,16 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
+/[Aa]ssets/[Aa]llIn1VfxToolkit/
+/[Aa]ssets/[Bb]reakableAsteroids/
+/[Aa]ssets/[Dd]inoFracture/
+/[Aa]ssets/[Gg]UI Mobile Hyper-Casual/
+/[Aa]ssets/[Hh]andpainted_Grass_and_Ground_Textures/
+/[Aa]ssets/[Hh]iRezSpaceshipsCreatorFree/
+/[Aa]ssets/[Pp]iloto Studio/
+/[Aa]ssets/[Pp]olygonHorrorMansion/
+/[Aa]ssets/[Ss]CI-FI UI Pack Pro/
+/[Aa]ssets/[Ss]tylized Grass Shader/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
